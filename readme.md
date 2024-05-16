@@ -27,8 +27,7 @@ This project is a Node.js application that generates a random image from Unsplas
 
     ```sh
     git clone https://github.com/Lovenoelkujur/random-image-api.git
-cd random-image-generator
-
+    cd random-image-generator
     ```
 
 2. Install the dependencies:
