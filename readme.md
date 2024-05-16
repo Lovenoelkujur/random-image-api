@@ -8,7 +8,7 @@ This project is a Node.js application that generates a random image from Unsplas
 - `Dotenv`: A module to load environment variables from a .env file.
 
 ## Screenshort
-![img](Screenshort.png)
+![img](screenshort.png)
 
 ## Features
 
@@ -26,7 +26,7 @@ This project is a Node.js application that generates a random image from Unsplas
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/random-image-generator.git
+    git clone https://github.com/Lovenoelkujur/random-image-api.git
 cd random-image-generator
 
     ```
